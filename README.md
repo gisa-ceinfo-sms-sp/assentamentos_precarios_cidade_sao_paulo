@@ -12,5 +12,7 @@
 Link para acessar a ferramenta: http://gisa-ceinfo-sms-sp.github.io/assentamentos_precarios_cidade_sao_paulo/index.html
 
 Aparência da tela exibida:
-![image](https://github.com/gisa-ceinfo-sms-sp/assentamentos_precarios_cidade_sao_paulo/assets/75272641/b0d86646-d485-4a5f-980c-b3f9092031b3)
+![image](https://github.com/gisa-ceinfo-sms-sp/assentamentos_precarios_cidade_sao_paulo/assets/75272641/d46b27a2-30fb-4701-a16a-78e8323284a9)
+
+
 
